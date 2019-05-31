@@ -8,8 +8,7 @@
 [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=ES-21AC-SP19&branch=master&path=)
 
 
-Write a description of the notbook here. 
-
+Exploration of Prison population around the issue of Prison Re-alignment
 
 **Developers: Asheley Quiterio, Shalini Kunapuli**
 

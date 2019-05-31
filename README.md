@@ -21,4 +21,4 @@ Write a description of the notbook here.
 | Notebook        | Data File       | Data Source      | Reason for Use         |
 | :-------------: | :-------------: | :-------------:  | :--------------------: |
 | Final |monthly_cdcr.csv | CDCR (California Department of Corrections and Rehabilitation) | Calculate Prison Iformation |
-| Final| jails_cleaned.csv | Board of State and Community Corrections (BSCC)| Calcukate the Jail Information |
+| Final| jails_cleaned.csv | Board of State and Community Corrections (BSCC)| Calculate the Jail Information |

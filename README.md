@@ -10,7 +10,7 @@
 
 Exploration of Prison population around the issue of Prison Re-alignment
 
-**Developers: Asheley Quiterio, Shalini Kunapuli**
+**Developers: Ashley Quiterio, Shalini Kunapuli**
 
 
 
